@@ -1,7 +1,7 @@
 # ZnakeXenzia
 ![Snake Xenzia by Meghana Chevva](images/ZnakeXenzia.gif)
 
-This is a simple Snake game built with Unity. The game allows players to control a snake, collect food to grow longer, and avoid obstacles. It features play, pause, and restart controls, and displays the score.
+This is a simple Snake game built with Unity. The game allows players to control a snake, collect food to grow longer. It features play, pause, and restart controls, and displays the score.
 
 ## Table of Contents
 
@@ -11,13 +11,14 @@ This is a simple Snake game built with Unity. The game allows players to control
 - [Building](#building)
 - [Usage](#usage)
 - [Controls](#controls)
+- [Game Settings](#gamesettings)
 - [Contributing](#contributing)
 
 ## Features
 
 - Control the snake using arrow keys or W, A, S, D.
 - Grow the snake by eating food.
-- Avoid obstacles and walls (with an option to move through walls).
+- Avoid/move through walls.
 - Display the current score.
 - Play, pause, and restart controls via buttons and the spacebar.
 
@@ -86,13 +87,14 @@ This is a simple Snake game built with Unity. The game allows players to control
 
 ### Play, Pause, and Restart Buttons
 
-- **Play**![Play Button](images/play_button.png): Starts or resumes the game.
-- **Pause**![Pause Button](images/pause_button.png): Pauses the game.
-- **Restart**![Restart Button](images/restart_button.png): Restarts the game from the beginning.
+- ![Play Button](images/play_button.png): Starts or resumes the game.
+- ![Pause Button](images/pause_button.png): Pauses the game.
+- ![Restart Button](images/restart_button.png): Restarts the game from the beginning.
 
 ### Score Display
 
 - The score is displayed at the bottom of the game screen.
+
 ![Score](images/score.png)
 
 ## Controls
@@ -100,6 +102,12 @@ This is a simple Snake game built with Unity. The game allows players to control
 - **Arrow Keys / W, A, S, D**: Move the snake.
 - **Spacebar**: Toggle between play and pause.
 - **Mouse**: Click on Play, Pause, and Restart buttons.
+
+## Game Settings
+![Game Settings](images/gamesettings.png)
+- **Speed**: Initial value is 20, increase the number to change speed.
+- **InitialSize**: Initial size is 4.
+- **Move Through Walls**: If checked allows snake to move through walls, if unchecked game will reset everytime snake hits/moves through walls.
 
 ## Contributing
 
