@@ -12,7 +12,7 @@ This is a simple Snake game built with Unity. The game allows players to control
 - [Usage](#usage)
 - [Controls](#controls)
 - [Game Settings](#gamesettings)
-- [Contributing](#contributing)
+- [Contributions](#contributing)
 
 ## Features
 
@@ -105,10 +105,11 @@ This is a simple Snake game built with Unity. The game allows players to control
 
 ## Game Settings
 ![Game Settings](images/gamesettings.png)
-- **Speed**: Initial value is 20, increase the number to change speed.
+- **Speed**: Initial value is 20.
+- **Speed Multiplier**: Initially increases the speed by 1f.
 - **InitialSize**: Initial size is 4.
 - **Move Through Walls**: If checked allows snake to move through walls, if unchecked game will reset everytime snake hits/moves through walls.
 
-## Contributing
+## Contributions
 
 Contributions are welcome! Please create an issue or submit a pull request with your changes.
