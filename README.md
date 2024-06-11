@@ -11,7 +11,7 @@ This is a simple Snake game built with Unity. The game allows players to control
 - [Building](#building)
 - [Usage](#usage)
 - [Controls](#controls)
-- [Game Settings](#gamesettings)
+- [GameSettings](#gamesettings)
 - [Contributions](#contributing)
 
 ## Features
@@ -103,7 +103,7 @@ This is a simple Snake game built with Unity. The game allows players to control
 - **Spacebar**: Toggle between play and pause.
 - **Mouse**: Click on Play, Pause, and Restart buttons.
 
-## Game Settings
+## GameSettings
 ![Game Settings](images/gamesettings.png)
 - **Speed**: Initial value is 20.
 - **Speed Multiplier**: Initially increases the speed by 1f.
