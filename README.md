@@ -12,7 +12,7 @@ This is a simple Snake game built with Unity. The game allows players to control
 - [Usage](#usage)
 - [Controls](#controls)
 - [GameSettings](#gamesettings)
-- [Contributions](#contributing)
+- [Contributions](#contributions)
 
 ## Features
 
